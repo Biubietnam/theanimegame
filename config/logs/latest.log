@@ -634,3 +634,391 @@ java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.ints.IntArr
 [2024-11-02 18:36:24] [INFO] [38;2;0;255;234m/worldlevel [world level]. Sets the targeted player's equilibrium level.[0m
 [2024-11-02 18:38:18] [INFO] Press Ctrl-C/Ctrl-D again to shutdown.
 [2024-11-02 18:38:19] [INFO] Client disconnected from 172.16.2.176
+[2024-11-02 18:38:22] [INFO] Starting biufuccore
+[2024-11-02 18:38:22] [INFO] Git hash: ac0be8b (2024-10-25 00:31:13)
+[2024-11-02 18:38:22] [INFO] Game version: 2.5.5
+[2024-11-02 18:38:23] [INFO] Loaded 434 AvatarPromotionExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 372 AvatarRankExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 770 EquipmentPromotionExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 132 ChallengeTargetExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 615 RogueMapExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 179 NpcMonsterExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 562 TutorialExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 122 BackGroundMusicExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 1 PetExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 1511 MonsterExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 42 RogueTalentExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 704 RogueRoomExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 4711 RewardExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 20 RogueNousSubStoryExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 463 ChallengeExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 16 SummonUnitExcels.
+[2024-11-02 18:38:23] [ERROR] Resource file not found: [MusicRhythmTrack.json].
+[2024-11-02 18:38:23] [INFO] Loaded 878 PropExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 273 CocoonExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 1386 RogueMonsterExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 62 AdventurePlayerExcels.
+[2024-11-02 18:38:23] [ERROR] Resource file not found: [MusicRhythmPhase.json].
+[2024-11-02 18:38:23] [INFO] Loaded 16 RogueDLCAreaExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 240 EquipmentExpTypeExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 864 NpcExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 64 RelicExpTypeExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 70 ShopExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 241 BattleEventDataExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 52 ChallengeGroupExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 93 TextJoinExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 48 RelicSubAffixExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 517 MapEntranceExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 206 MazePlaneExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 8 MultiplePathAvatarExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 2774 QuestExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 7 ContentPackageExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 208 ItemUseExcels.
+[2024-11-02 18:38:23] [ERROR] Resource file not found: [MusicRhythmGroup.json].
+[2024-11-02 18:38:23] [ERROR] Resource file not found: [MusicRhythmLevel.json].
+[2024-11-02 18:38:23] [INFO] Loaded 12 RogueNousDiceBranchExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 117 RelicMainAffixExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 137 ActivityPanelExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 200 ExpTypeExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 38 RelicSetExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 40 RogueBonusExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 1284 MazeBuffExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 423 TutorialGuideGroupExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 310 MainMissionScheduleExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 8 RogueNousMainStoryExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 260 RogueNPCExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 210 InteractExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 62 AvatarExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 18725 StageExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 78 RogueManagerExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 70 PlayerLevelExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 48 PlayerIconExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 9 RogueAeonExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 250 RogueMiracleExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 3214 ItemExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 242 ItemComposeExcels.
+[2024-11-02 18:38:23] [INFO] Loaded 1466 MainMissionExcels.
+[2024-11-02 18:38:23] [ERROR] Resource file not found: [MusicRhythmSoundEffect.json].
+[2024-11-02 18:38:23] [ERROR] Resource file not found: [MusicRhythmSong.json].
+[2024-11-02 18:38:24] [INFO] Loaded 1343 DialogueEventExcels.
+[2024-11-02 18:38:24] [INFO] Loaded 110 EquipmentExcels.
+[2024-11-02 18:38:24] [INFO] Loaded 484 RogueBuffExcels.
+[2024-11-02 18:38:24] [INFO] Loaded 1012 MappingInfoExcels.
+[2024-11-02 18:38:24] [INFO] Loaded 69 ChallengeRewardExcels.
+[2024-11-02 18:38:24] [INFO] Loaded 2247 MonsterDropExcels.
+[2024-11-02 18:38:24] [INFO] Loaded 3 EquipmentExpItemExcels.
+[2024-11-02 18:38:24] [ERROR] Error loading resource file: [RogueBuffGroup.json]
+java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.ints.IntArrayList.iterator()" because "this.RogueBuffTagList" is null
+	at emu.lunarcore.data.excel.RogueBuffGroupExcel.onLoad(RogueBuffGroupExcel.java:34)
+	at emu.lunarcore.data.ResourceLoader.lambda$loadFromResource$3(ResourceLoader.java:196)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at emu.lunarcore.data.ResourceLoader.loadFromResource(ResourceLoader.java:194)
+	at emu.lunarcore.data.ResourceLoader.loadFromResource(ResourceLoader.java:136)
+	at emu.lunarcore.data.ResourceLoader.loadResources(ResourceLoader.java:122)
+	at emu.lunarcore.data.ResourceLoader.loadAll(ResourceLoader.java:46)
+	at emu.lunarcore.LunarCore.main(LunarCore.java:107)
+[2024-11-02 18:38:24] [INFO] Loaded 36 ChallengeStoryExtraExcels.
+[2024-11-02 18:38:24] [INFO] Loaded 498 ShopGoodsExcels.
+[2024-11-02 18:38:24] [INFO] Loaded 16 ChallengeBossExtraExcels.
+[2024-11-02 18:38:24] [INFO] Loaded 37 ChallengeScheduleExcels.
+[2024-11-02 18:38:24] [INFO] Loaded 7 ChatBubbleExcels.
+[2024-11-02 18:38:24] [INFO] Loaded 3100 AvatarSkillTreeExcels.
+[2024-11-02 18:38:24] [INFO] Loaded 3 AvatarExpItemExcels.
+[2024-11-02 18:38:24] [INFO] Loaded 470 RelicExcels.
+[2024-11-02 18:38:24] [INFO] Loaded 8 PhoneThemeExcels.
+[2024-11-02 18:38:24] [INFO] Loaded 4 RelicExpItemExcels.
+[2024-11-02 18:38:24] [INFO] Loaded 38 RogueAreaExcels.
+[2024-11-02 18:38:24] [INFO] Loading floor infos... this may take a while.
+[2024-11-02 18:38:25] [INFO] Loaded 418 floor infos.
+[2024-11-02 18:38:25] [INFO] Loaded 62 maze abilities for avatars.
+[2024-11-02 18:38:25] [INFO] Loaded 74 rogue events.
+[2024-11-02 18:38:25] [INFO] Resource loading complete
+[2024-11-02 18:38:29] [INFO] Connected to the MongoDB database at mongodb+srv://biub7596:9Hu7JLu4hodemxnY@hsrdatabase.rbgx1.mongodb.net/?retryWrites=true&w=majority&appName=hsrdatabase
+[2024-11-02 18:38:29] [INFO] Http Server running as: DISPATCH, GATESERVER
+[2024-11-02 18:38:29] [INFO] Http Server started on 80
+[2024-11-02 18:38:29] [INFO] Game Server registered 158 packet handlers
+[2024-11-02 18:38:30] [INFO] Game Server started on 23212
+[2024-11-02 18:38:39] [INFO] Client request: query_dispatch
+[2024-11-02 18:39:03] [INFO] Client request: query_gateway
+[2024-11-02 18:39:24] [INFO] Client connected from 172.16.2.176
+[2024-11-02 18:39:26] [INFO] Handled packet (79): PlayerGetTokenCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (98): PlayerLoginCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (60): GetLevelRewardTakenListCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (1288): GetMainMissionCustomValueCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (1231): GetMissionStatusCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (53): GetBasicInfoCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (68): GetMultiPathAvatarInfoCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (598): GetBagCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (588): GetMarkItemListCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (2898): GetPlayerBoardDataCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (398): GetAvatarDataCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (6055): RogueTournGetCurRogueCocoonInfoCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (2988): GetCurAssistCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (731): GetAllLineupDataCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (6198): GetAllServerPrefsDataCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (2679): GetActivityScheduleConfigCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (1298): GetMissionDataCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (1266): GetMissionEventDataCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (998): GetQuestDataCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (1738): GetCurChallengeCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (5649): GetRogueCommonDialogueDataCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (1898): GetRogueInfoCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (5636): GetRogueHandbookDataCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (6002): GetRogueEndlessActivityDataCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (7674): RogueArcadeGetInfoCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (5418): ChessRogueQueryCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (6014): RogueTournQueryCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (7760): RogueMagicQueryCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (133): SyncClientResVersionCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (3483): DailyFirstMeetPamCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (5798): GetBattleCollegeDataCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (2783): GetNpcStatusCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (29): GetSecretKeyInfoCsReq
+[2024-11-02 18:39:26] [INFO] Unhandled packet (6398): GetHeartDialInfoCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (72): GetVideoVersionKeyCsReq
+[2024-11-02 18:39:26] [INFO] Handled packet (783): GetCurLineupDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (179): GetCurBattleInfoCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (1433): GetCurSceneInfoCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (5898): HeliobusActivityDataCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (1468): GetEnteredSceneCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (4878): GetAetherDivideInfoCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (6878): GetMapRotationDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (5697): GetRogueCollectionCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (5624): GetRogueExhibitionCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (4528): PlayerReturnInfoQueryCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (7629): GetPetDataCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (19): QueryProductInfoCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (90): PlayerLoginFinishCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (1288): GetMainMissionCustomValueCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (1231): GetMissionStatusCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (4998): GetFantasticStoryActivityDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (1288): GetMainMissionCustomValueCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (1231): GetMissionStatusCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (1809): GetRogueScoreRewardInfoCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (1998): GetGachaInfoCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (998): GetQuestDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (933): GetQuestRecordCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (2919): GetFriendLoginInfoCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (2988): GetCurAssistCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (3383): GetDailyActiveInfoCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (5410): GetChessRogueNousStoryInfoCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (5667): CommonRogueQueryCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (3698): GetFightActivityDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (7162): GetStarFightDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (4698): GetMultipleDropInfoCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (4642): GetPlayerReturnMultiDropInfoCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (4183): GetShareDataCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (4478): GetTreasureDungeonActivityDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (7129): EvolveBuildQueryInfoCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (4798): GetAlleyInfoCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (4900): GetAetherDivideChallengeInfoCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (6698): GetStrongChallengeActivityDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (6934): GetOfferingInfoCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (7229): ClockParkGetInfoCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (7591): MusicRhythmDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (4110): GetGunPlayDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (7552): GetTrackPhotoActivityDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (7487): GetSwordTrainingDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (7279): GetFightFestDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (4123): DifficultyAdjustmentGetDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (6798): SpaceZooDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (2645): GetMaterialSubmitActivityDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (2598): GetExpeditionDataCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (1459): GetUnlockTeleportCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (1383): GetFarmStageGachaInfoCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (6498): TravelBrochureGetDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (6954): RaidCollectionDataCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (3928): GetChatEmojiListCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (1798): GetChallengeCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (2278): GetRaidInfoCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (2698): GetLoginActivityCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (2687): GetTrialActivityDataCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (3198): GetJukeboxDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (4398): GetMuseumInfoCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (6974): GetTelevisionActivityDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (3733): GetTrainVisitorRegisterCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (4298): GetBoxingClubInfoCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (3883): TextJoinQueryCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (1453): GetSpringRecoverDataCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (3383): GetDailyActiveInfoCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (3966): GetLoginChatInfoCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (3933): GetChatFriendHistoryCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (5198): GetPhoneDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (7153): GetFeverTimeActivityDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (7562): GetSummonActivityDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (1288): GetMainMissionCustomValueCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (1231): GetMissionStatusCsReq
+[2024-11-02 18:39:27] [INFO] Handled packet (1231): GetMissionStatusCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (7429): MatchThreeGetDataCsReq
+[2024-11-02 18:39:27] [INFO] Unhandled packet (6994): GetDrinkMakerDataCsReq
+[2024-11-02 18:39:28] [INFO] Unhandled packet (1236): UpdateTrackMainMissionIdCsReq
+[2024-11-02 18:39:28] [INFO] Handled packet (1231): GetMissionStatusCsReq
+[2024-11-02 18:39:28] [INFO] Handled packet (1698): GetTutorialCsReq
+[2024-11-02 18:39:28] [INFO] Handled packet (1683): GetTutorialGuideCsReq
+[2024-11-02 18:39:28] [INFO] Handled packet (898): GetMailCsReq
+[2024-11-02 18:39:28] [INFO] Handled packet (1598): GetShopListCsReq
+[2024-11-02 18:39:28] [INFO] Unhandled packet (1419): DeactivateFarmElementCsReq
+[2024-11-02 18:39:28] [INFO] Unhandled packet (1288): GetMainMissionCustomValueCsReq
+[2024-11-02 18:39:28] [INFO] Handled packet (1231): GetMissionStatusCsReq
+[2024-11-02 18:39:28] [INFO] Unhandled packet (1456): SceneUpdatePositionVersionNotify
+[2024-11-02 18:39:28] [INFO] Unhandled packet (1628): FinishTutorialCsReq
+[2024-11-02 18:39:28] [INFO] Unhandled packet (1628): FinishTutorialCsReq
+[2024-11-02 18:39:29] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:39:29] [INFO] Handled packet (2179): GetFirstTalkNpcCsReq
+[2024-11-02 18:39:29] [INFO] Unhandled packet (1288): GetMainMissionCustomValueCsReq
+[2024-11-02 18:39:29] [INFO] Handled packet (1231): GetMissionStatusCsReq
+[2024-11-02 18:39:29] [INFO] Handled packet (1383): GetFarmStageGachaInfoCsReq
+[2024-11-02 18:39:29] [INFO] Handled packet (1231): GetMissionStatusCsReq
+[2024-11-02 18:39:49] [INFO] [38;2;0;255;234mGender for Admin set successfully[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/account {create | delete} [username] (reserved player uid). Creates or deletes an account.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/anno [text]. Sends a message to all players on the server.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/avatar {cur | all | lineup} lv(level) p(ascension) e(eidolon) s(skill levels). Sets the current avatar's properties[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/ban [player]. Bans a player from the server.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/clear {relics | lightcones | materials | items} lv(filter level). Removes filter items from the targeted player's inventory.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/energy. Refills all characters energy in current lineup.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/gender {male | female}. Sets the player gender.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/give [item id] x(amount) lv(level) r(rank) p(promotion). Gives the targeted player an item.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/giveall {materials | avatars | lightcones | relics | usables | pets} lv(level). Gives the targeted player items.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/heal. Heals your avatars.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/help. Displays a list of available commands.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/kick {[0||squeezed||sq] || [2||pwd] || [3||timeout||ti] || [4||cheat||ce] || [''||5||gm]} @[player id]. Kicks a player from the server.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/lineup [avatar ids]. USE AT YOUR OWN RISK. Sets your current lineup with the specified avatar ids.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/login [account] [pwd]. Login to your account.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/mail [content]. Sends the targeted player a system mail.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/multi { join | quit | fps [Multi Display FPS] } @[player id]. Join a multi play.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/permission {add ( player | vip | admin ) | remove | clear} [permission]. Gives/removes a permission from the targeted player.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/pos. Get your current position.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/refill - refill your skill points in open world.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/reload { config | res}. Reloads the server config.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/scene [scene id] [floor id]. Teleports the player to the specified scene.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/spawn [npc monster id/prop id] s[stage id] x[amount] lv[level] r[radius] <battle monster ids...>. Spawns a monster or prop near the targeted player.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/status. Displays the status of the server.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/tag {add | remove} [name]. Add or remove a tag to a player.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/tp. Move yourself to a specific position.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/traillevel [level] - Sets the targeted player's trailblazer level.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/unban [player]. Unbans a player from the server.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/unlockfps unlock client fps to 120hz[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/unstuck @[player id]. Unstucks an offline player if theyre in a scene that doesnt load.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/user { reg || del } [user] (pwd). Resolve a user.[0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/windy [name] - Windy![0m
+[2024-11-02 18:39:53] [INFO] [38;2;0;255;234m/worldlevel [world level]. Sets the targeted player's equilibrium level.[0m
+[2024-11-02 18:40:18] [ERROR] Terminal error: 
+java.lang.NullPointerException: Cannot invoke "emu.lunarcore.game.player.Player.getUid()" because "sender" is null
+	at emu.lunarcore.command.commands.MultiCommand.execute(MultiCommand.java:24)
+	at emu.lunarcore.command.CommandManager.invoke(CommandManager.java:175)
+	at emu.lunarcore.LunarCore.startConsole(LunarCore.java:254)
+	at emu.lunarcore.LunarCore.main(LunarCore.java:145)
+[2024-11-02 18:40:38] [INFO] [38;2;0;255;234mAdded permission for Admin[0m
+[2024-11-02 18:40:44] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:40:44] [INFO] Handled packet (898): GetMailCsReq
+[2024-11-02 18:40:45] [INFO] Handled packet (833): TakeMailAttachmentCsReq
+[2024-11-02 18:40:47] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:40:48] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:40:50] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:40:58] [INFO] Invalid Command!
+[2024-11-02 18:41:36] [INFO] [38;2;0;255;234mError: Targeted player not found or offline.[0m
+[2024-11-02 18:41:47] [INFO] [38;2;0;255;234mSending mail to Admin[0m
+[2024-11-02 18:41:48] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:41:48] [INFO] Handled packet (1426): GetSceneMapInfoCsReq
+[2024-11-02 18:41:50] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:41:53] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:41:54] [INFO] Handled packet (898): GetMailCsReq
+[2024-11-02 18:41:54] [INFO] Handled packet (883): MarkReadMailCsReq
+[2024-11-02 18:42:22] [INFO] [38;2;0;255;234mError: Targeted player not found.[0m
+[2024-11-02 18:42:30] [INFO] [38;2;0;255;234mSending mail to Admin[0m
+[2024-11-02 18:42:32] [INFO] Handled packet (898): GetMailCsReq
+[2024-11-02 18:42:32] [INFO] Handled packet (883): MarkReadMailCsReq
+[2024-11-02 18:44:27] [INFO] Handled packet (53): GetBasicInfoCsReq
+[2024-11-02 18:48:03] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:48:05] [INFO] Handled packet (1998): GetGachaInfoCsReq
+[2024-11-02 18:48:05] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:48:06] [INFO] Handled packet (6179): UpdateServerPrefsDataCsReq
+[2024-11-02 18:48:07] [INFO] Handled packet (6179): UpdateServerPrefsDataCsReq
+[2024-11-02 18:48:09] [INFO] Handled packet (6179): UpdateServerPrefsDataCsReq
+[2024-11-02 18:48:09] [INFO] Handled packet (6179): UpdateServerPrefsDataCsReq
+[2024-11-02 18:48:10] [INFO] Handled packet (6179): UpdateServerPrefsDataCsReq
+[2024-11-02 18:48:12] [INFO] Handled packet (6179): UpdateServerPrefsDataCsReq
+[2024-11-02 18:48:14] [INFO] Handled packet (6179): UpdateServerPrefsDataCsReq
+[2024-11-02 18:48:14] [INFO] Handled packet (6179): UpdateServerPrefsDataCsReq
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/account {create | delete} [username] (reserved player uid). Creates or deletes an account.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/anno [text]. Sends a message to all players on the server.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/avatar {cur | all | lineup} lv(level) p(ascension) e(eidolon) s(skill levels). Sets the current avatar's properties[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/ban [player]. Bans a player from the server.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/clear {relics | lightcones | materials | items} lv(filter level). Removes filter items from the targeted player's inventory.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/energy. Refills all characters energy in current lineup.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/gender {male | female}. Sets the player gender.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/give [item id] x(amount) lv(level) r(rank) p(promotion). Gives the targeted player an item.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/giveall {materials | avatars | lightcones | relics | usables | pets} lv(level). Gives the targeted player items.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/heal. Heals your avatars.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/help. Displays a list of available commands.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/kick {[0||squeezed||sq] || [2||pwd] || [3||timeout||ti] || [4||cheat||ce] || [''||5||gm]} @[player id]. Kicks a player from the server.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/lineup [avatar ids]. USE AT YOUR OWN RISK. Sets your current lineup with the specified avatar ids.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/login [account] [pwd]. Login to your account.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/mail [content]. Sends the targeted player a system mail.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/multi { join | quit | fps [Multi Display FPS] } @[player id]. Join a multi play.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/permission {add ( player | vip | admin ) | remove | clear} [permission]. Gives/removes a permission from the targeted player.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/pos. Get your current position.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/refill - refill your skill points in open world.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/reload { config | res}. Reloads the server config.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/scene [scene id] [floor id]. Teleports the player to the specified scene.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/spawn [npc monster id/prop id] s[stage id] x[amount] lv[level] r[radius] <battle monster ids...>. Spawns a monster or prop near the targeted player.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/status. Displays the status of the server.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/tag {add | remove} [name]. Add or remove a tag to a player.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/tp. Move yourself to a specific position.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/traillevel [level] - Sets the targeted player's trailblazer level.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/unban [player]. Unbans a player from the server.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/unlockfps unlock client fps to 120hz[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/unstuck @[player id]. Unstucks an offline player if theyre in a scene that doesnt load.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/user { reg || del } [user] (pwd). Resolve a user.[0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/windy [name] - Windy![0m
+[2024-11-02 18:48:31] [INFO] [38;2;0;255;234m/worldlevel [world level]. Sets the targeted player's equilibrium level.[0m
+[2024-11-02 18:49:11] [INFO] [38;2;0;255;234mReloaded the config data.[0m
+[2024-11-02 18:49:15] [INFO] Handled packet (6179): UpdateServerPrefsDataCsReq
+[2024-11-02 18:49:16] [INFO] Handled packet (6179): UpdateServerPrefsDataCsReq
+[2024-11-02 18:49:17] [INFO] Handled packet (6179): UpdateServerPrefsDataCsReq
+[2024-11-02 18:49:18] [INFO] Handled packet (6179): UpdateServerPrefsDataCsReq
+[2024-11-02 18:49:19] [INFO] Handled packet (6179): UpdateServerPrefsDataCsReq
+[2024-11-02 18:49:25] [INFO] Handled packet (1983): DoGachaCsReq
+[2024-11-02 18:49:28] [INFO] Handled packet (53): GetBasicInfoCsReq
+[2024-11-02 18:49:32] [INFO] Handled packet (1983): DoGachaCsReq
+[2024-11-02 18:49:39] [INFO] Handled packet (1983): DoGachaCsReq
+[2024-11-02 18:49:45] [INFO] Handled packet (1983): DoGachaCsReq
+[2024-11-02 18:49:51] [INFO] Handled packet (1983): DoGachaCsReq
+[2024-11-02 18:50:00] [INFO] Handled packet (1983): DoGachaCsReq
+[2024-11-02 18:50:32] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:50:43] [INFO] Handled packet (2963): GetAssistHistoryCsReq
+[2024-11-02 18:50:43] [INFO] Handled packet (2983): GetPlayerDetailInfoCsReq
+[2024-11-02 18:50:43] [INFO] Unhandled packet (2976): GetFriendBattleRecordDetailCsReq
+[2024-11-02 18:50:43] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:50:43] [INFO] Unhandled packet (2949): GetFriendDevelopmentInfoCsReq
+[2024-11-02 18:50:45] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:50:46] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:50:47] [INFO] Handled packet (1383): GetFarmStageGachaInfoCsReq
+[2024-11-02 18:50:49] [INFO] Handled packet (1459): GetUnlockTeleportCsReq
+[2024-11-02 18:50:52] [INFO] Handled packet (2429): RelicRecommendCsReq
+[2024-11-02 18:50:52] [INFO] Handled packet (2429): RelicRecommendCsReq
+[2024-11-02 18:51:05] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:51:09] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:51:09] [INFO] Handled packet (1383): GetFarmStageGachaInfoCsReq
+[2024-11-02 18:51:11] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:52:22] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:52:22] [INFO] Handled packet (1383): GetFarmStageGachaInfoCsReq
+[2024-11-02 18:52:25] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:52:40] [INFO] [38;2;0;255;234mReloaded the config data.[0m
+[2024-11-02 18:52:42] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:52:42] [INFO] Handled packet (1383): GetFarmStageGachaInfoCsReq
+[2024-11-02 18:52:47] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:53:41] [INFO] Unhandled packet (1462): EnterSectionCsReq
+[2024-11-02 18:53:56] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:54:07] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:54:09] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:54:10] [INFO] Handled packet (1383): GetFarmStageGachaInfoCsReq
+[2024-11-02 18:54:12] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:54:13] [INFO] Handled packet (1457): SetClientPausedCsReq
+[2024-11-02 18:54:15] [INFO] Handled packet (6179): UpdateServerPrefsDataCsReq
+[2024-11-02 18:54:16] [INFO] Handled packet (6179): UpdateServerPrefsDataCsReq
+[2024-11-02 18:54:26] [INFO] Unhandled packet (2649): StartTrialActivityCsReq
+[2024-11-02 18:54:28] [INFO] Handled packet (53): GetBasicInfoCsReq
+[2024-11-02 18:54:56] [INFO] [38;2;0;255;234m kicked Admin from the server[0m
+[2024-11-02 18:55:23] [INFO] Client disconnected from 172.16.2.176
