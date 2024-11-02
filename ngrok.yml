@@ -1,9 +1,0 @@
-version: "2"
-tunnels:
-  http_tunnel:
-    proto: http
-    addr: 127.0.0.1:443
-  tcp_tunnel:
-    proto: tcp
-    addr: acebacttkill.com:23212
-authtoken: 2oCWfhNsjFG1Eaj0BD3imT16Olh_xob8wJ3SZsviVk67BxYB
