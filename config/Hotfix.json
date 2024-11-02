@@ -1,0 +1,38 @@
+{
+  "baseUrl": {
+    "CNWin": "https://autopatchcn.bhsr.com",
+    "OSWin": "https://autopatchos.starrails.com"
+  },
+  "downloadData": {
+    "2.5.51": {
+      "assetBundleUrl": "",
+      "exResourceUrl": "",
+      "luaUrl": "",
+      "ifixUrl": ""
+    },
+    "2.5.52": {
+      "assetBundleUrl": "",
+      "exResourceUrl": "",
+      "luaUrl": "",
+      "ifixUrl": ""
+    },
+    "2.5.53": {
+      "assetBundleUrl": "",
+      "exResourceUrl": "",
+      "luaUrl": "",
+      "ifixUrl": ""
+    },
+    "2.5.54": {
+      "assetBundleUrl": "",
+      "exResourceUrl": "",
+      "luaUrl": "",
+      "ifixUrl": ""
+    },
+    "2.5.55": {
+      "assetBundleUrl": "",
+      "exResourceUrl": "",
+      "luaUrl": "",
+      "ifixUrl": ""
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "accountDatabase": {
+    "uri": "mongodb+srv://biub7596:9Hu7JLu4hodemxnY@hsrdatabase.rbgx1.mongodb.net/?retryWrites\u003dtrue\u0026w\u003dmajority\u0026appName\u003dhsrdatabase",
+    "collection": "biufucoregamedata",
+    "useInternal": false
+  },
+  "gameDatabase": {
+    "uri": "mongodb+srv://biub7596:9Hu7JLu4hodemxnY@hsrdatabase.rbgx1.mongodb.net/?retryWrites\u003dtrue\u0026w\u003dmajority\u0026appName\u003dhsrdatabase",
+    "collection": "biufucoregamedata",
+    "useInternal": false
+  },
+  "internalMongoServer": {
+    "address": "mongodb+srv://biub7596:9Hu7JLu4hodemxnY@hsrdatabase.rbgx1.mongodb.net/?retryWrites\u003dtrue\u0026w\u003dmajority\u0026appName\u003dhsrdatabase",
+    "port": 27017,
+    "filePath": "database.mv"
+  },
+  "useSameDatabase": true,
+  "keystore": {
+    "path": "./keystore.p12",
+    "password": "250108"
+  },
+  "httpServer": {
+    "useSSL": false,
+    "regionListRefresh": 60000,
+    "bindAddress": "0.0.0.0",
+    "bindPort": 80,
+    "publicAddress": "172.16.2.200",
+    "publicPort": 80
+  },
+  "gameServer": {
+    "id": "biufuccore",
+    "name": "biufuccore",
+    "description": "biufuccore",
+    "kcpInterval": 40,
+    "kcpTimeout": 30,
+    "bindAddress": "0.0.0.0",
+    "bindPort": 23212,
+    "publicAddress": "172.16.2.200",
+    "publicPort": 23212
+  },
+  "serverOptions": {
+    "useMission": true,
+    "sceneMaxEntites": 500,
+    "maxCustomRelicLevel": 15,
+    "unlockAllChallenges": true,
+    "spendStamina": true,
+    "staminaRecoveryRate": 300,
+    "staminaReserveRecoveryRate": 1080,
+    "startTrailblazerLevel": 1,
+    "autoUpgradeWorldLevel": true,
+    "language": "VI",
+    "defaultPermissions": [
+      "player"
+    ],
+    "serverFriendInfo": {
+      "name": "Console",
+      "signature": "Type /help for a list of the modified commands.",
+      "level": 70,
+      "headIcon": 202007,
+      "chatBubbleId": 0,
+      "displayAvatars": [
+        {
+          "avatarId": 1220,
+          "level": 80
+        },
+        {
+          "avatarId": 1222,
+          "level": 80
+        }
+      ]
+    },
+    "serverChatFriendInfo": {
+      "name": "World",
+      "signature": "Be free chating here!",
+      "level": 70,
+      "headIcon": 202016,
+      "chatBubbleId": 0,
+      "displayAvatars": [
+        {
+          "avatarId": 1223,
+          "level": 80
+        }
+      ]
+    },
+    "welcomeMail": {
+      "title": "Welcome to biufuccore",
+      "sender": "Lethe",
+      "content": "Welcome to here, a modified version of LunarCore.",
+      "attachments": [
+        {
+          "id": 2,
+          "count": 1000000
+        },
+        {
+          "id": 101,
+          "count": 1000
+        },
+        {
+          "id": 102,
+          "count": 1000
+        }
+      ]
+    }
+  },
+  "accountOptions": {
+    "autoCreateAccount": true,
+    "maxPlayers": -1,
+    "consoleRemoteKey": "",
+    "useLogin": false,
+    "adminLoginSkip": true,
+    "limitDeviceId": false,
+    "maxDeviceId": 3,
+    "useModifiedUid": true
+  },
+  "serverTime": {
+    "spoofTime": true,
+    "spoofDate": "15-01-2024 07:00:00"
+  },
+  "serverRates": {
+    "exp": 1.0,
+    "credit": 1.0,
+    "jade": 1.0,
+    "material": 1.0,
+    "equip": 1.0
+  },
+  "logOptions": {
+    "commands": true,
+    "connections": true,
+    "easyPackets": true,
+    "packets": false,
+    "filterLoopingPackets": true
+  },
+  "announceData": {
+    "useBanner": true,
+    "bannerText": "biufuccore By biu",
+    "adminBannerText": "biufuccore By biu (Admin Access)",
+    "bannerFrequency": 900
+  },
+  "resourceDir": "./resources",
+  "dataDir": "./config"
+}
