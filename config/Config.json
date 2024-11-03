@@ -127,7 +127,7 @@
     "commands": true,
     "connections": true,
     "easyPackets": true,
-    "packets": false,
+    "packets": true,
     "filterLoopingPackets": true
   },
   "announceData": {
