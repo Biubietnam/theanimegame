@@ -23,9 +23,9 @@
     "useSSL": false,
     "regionListRefresh": 60000,
     "bindAddress": "0.0.0.0",
-    "bindPort": 443,
+    "bindPort": 8080,
     "publicAddress": "hsrservere-340c5daf4f43.herokuapp.com/",
-    "publicPort": 443
+    "publicPort": 8080
   },
   "gameServer": {
     "id": "biufuccore",
