@@ -131,7 +131,7 @@
     "filterLoopingPackets": true
   },
   "announceData": {
-    "useBanner": true,
+    "useBanner": false,
     "bannerText": "biufuccore By biu",
     "adminBannerText": "biufuccore By biu (Admin Access)",
     "bannerFrequency": 900
