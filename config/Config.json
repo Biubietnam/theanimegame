@@ -34,9 +34,9 @@
     "kcpInterval": 40,
     "kcpTimeout": 30,
     "bindAddress": "0.0.0.0",
-    "bindPort": 23212,
+    "bindPort": 27015,
     "publicAddress": "140.245.100.123",
-    "publicPort": 23212
+    "publicPort": 27015
   },
   "serverOptions": {
     "useMission": true,
