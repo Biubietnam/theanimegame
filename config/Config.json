@@ -25,7 +25,7 @@
     "bindAddress": "0.0.0.0",
     "bindPort": 3000,
     "publicAddress": "140.245.100.123",
-    "publicPort": 3000
+    "publicPort": 1024
   },
   "gameServer": {
     "id": "biufuccore",
