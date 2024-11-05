@@ -113,7 +113,7 @@
     "useModifiedUid": true
   },
   "serverTime": {
-    "spoofTime": true,
+    "spoofTime": false,
     "spoofDate": "15-01-2024 07:00:00"
   },
   "serverRates": {
