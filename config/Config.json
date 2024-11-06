@@ -23,9 +23,9 @@
     "useSSL": false,
     "regionListRefresh": 60000,
     "bindAddress": "0.0.0.0",
-    "bindPort": 3000,
+    "bindPort": 80,
     "publicAddress": "140.245.100.123",
-    "publicPort": 1024
+    "publicPort": 80
   },
   "gameServer": {
     "id": "biufuccore",
