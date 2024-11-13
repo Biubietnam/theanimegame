@@ -17,15 +17,15 @@
   "useSameDatabase": true,
   "keystore": {
     "path": "./keystore.p12",
-    "password": "250108"
+    "password": ""
   },
   "httpServer": {
-    "useSSL": false,
+    "useSSL": true,
     "regionListRefresh": 60000,
     "bindAddress": "0.0.0.0",
-    "bindPort": 80,
-    "publicAddress": "140.245.100.123",
-    "publicPort": 80
+    "bindPort": 443,
+    "publicAddress": "theunknowanimegame.xyz",
+    "publicPort": 443
   },
   "gameServer": {
     "id": "biufuccore",
